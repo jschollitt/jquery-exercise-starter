@@ -15,15 +15,15 @@ $('document').ready(function () {
 
 
     // exercise 5: Focus events
-    // Week 9
+    // for following exercises
 
 
     // exercise 6: Show and Hide effects
-    // Week 9
+    // for following exercises
 
 
     // exercise 7: Fade effects
-    // Week 9
+    // for following exercises
 
 
     // exercise 8: Slide
